@@ -1,10 +1,11 @@
 import React from 'react';
-import { Wrapper, Header } from './components';
+import { Wrapper, Header, MainSection } from './components';
 
 function App() {
   return (
     <Wrapper>
       <Header />
+      <MainSection />
     </Wrapper>
   );
 }
