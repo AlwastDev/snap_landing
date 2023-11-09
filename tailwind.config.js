@@ -9,6 +9,9 @@ module.exports = {
       'md': '1024px'
     },
     extend: {
+      transitionDuration: {
+        '400': '0.4s',
+      },
       colors: {
         'almost-white': 'hsl(0, 0%, 98%)',
         'medium-gray': 'hsl(0, 0%, 41%)',
