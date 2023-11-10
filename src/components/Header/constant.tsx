@@ -1,7 +1,7 @@
-import PlanningIcon from '../../../public/images/icon-planning.svg?react';
-import CalendarIcon from '../../../public/images/icon-calendar.svg?react';
-import TodoIcon from '../../../public/images/icon-todo.svg?react';
-import RemindersIcon from '../../../public/images/icon-reminders.svg?react';
+import PlanningIcon from '@assets/images/icon-planning.svg?react';
+import CalendarIcon from '@assets/images/icon-calendar.svg?react';
+import TodoIcon from '@assets/images/icon-todo.svg?react';
+import RemindersIcon from '@assets/images/icon-reminders.svg?react';
 
 export const FEATURES: {
   text: string;

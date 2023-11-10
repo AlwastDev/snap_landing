@@ -1,7 +1,7 @@
 import { useState } from 'react';
-import LogoIcon from '../../../public/images/logo.svg?react';
-import MenuIcon from '../../../public/images/icon-menu.svg?react';
-import MenuCloseIcon from '../../../public/images/icon-close-menu.svg?react';
+import LogoIcon from '@assets/images/logo.svg?react';
+import MenuIcon from '@assets/images/icon-menu.svg?react';
+import MenuCloseIcon from '@assets/images/icon-close-menu.svg?react';
 import { NavItem } from '../NavItem/NavItem';
 import { NavMenu } from '../NavMenu/NavMenu';
 import { COMPANIES, FEATURES } from './constant.tsx';

@@ -1,9 +1,9 @@
-import Databiz from '../../../public/images/client-databiz.svg?react';
-import Audiophile from '../../../public/images/client-audiophile.svg?react';
-import Meet from '../../../public/images/client-meet.svg?react';
-import Maker from '../../../public/images/client-maker.svg?react';
-import MenImage from '../../../public/images/image-hero-desktop.png';
-import MenMobileImage from '../../../public/images/image-hero-mobile.png';
+import Databiz from '@assets/images/client-databiz.svg?react';
+import Audiophile from '@assets/images/client-audiophile.svg?react';
+import Meet from '@assets/images/client-meet.svg?react';
+import Maker from '@assets/images/client-maker.svg?react';
+import MenImage from '@assets/images/image-hero-desktop.png';
+import MenMobileImage from '@assets/images/image-hero-mobile.png';
 import { Button } from '../Button/Button';
 
 const MainSection = () => {
