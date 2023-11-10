@@ -1,4 +1,3 @@
-import React from 'react';
 import { Wrapper, Header, MainSection } from './components';
 
 function App() {

@@ -1,10 +1,10 @@
-import { ReactNode } from 'react';
+import { FunctionComponent, SVGProps } from 'react';
 
 export type NavMenuProps = {
   items: NavItem[];
-}
+};
 
 type NavItem = {
   text: string;
-  icon?: ReactNode;
-}
+  icon?: FunctionComponent<SVGProps<SVGSVGElement>>;
+};

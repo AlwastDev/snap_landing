@@ -1,6 +1,6 @@
-import { ReactNode } from 'react';
+import { FunctionComponent, SVGProps } from 'react';
 
 export type MenuItemProps = {
   text?: string;
-  icon?: ReactNode;
-}
+  icon?: FunctionComponent<SVGProps<SVGSVGElement>>;
+};
